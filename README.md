@@ -1,0 +1,2 @@
+# mi-archivo.js
+pruebita
